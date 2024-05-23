@@ -1,0 +1,203 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PublicPrivateProtectedDefault",
+      "request": "launch",
+      "mainClass": "PublicPrivateProtectedDefault",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "Classes",
+      "request": "launch",
+      "mainClass": "Classes",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "OccurChecker",
+      "request": "launch",
+      "mainClass": "exercises.OccurChecker",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "Sorteio",
+      "request": "launch",
+      "mainClass": "Sorteio",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "Multby3",
+      "request": "launch",
+      "mainClass": "exercises.Multby3",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "procedimento",
+      "request": "launch",
+      "mainClass": "modularizacao.procedimento",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "Funcoesjava",
+      "request": "launch",
+      "mainClass": "modularizacao.Funcoesjava",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "AritMedia",
+      "request": "launch",
+      "mainClass": "AritMedia",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "Range",
+      "request": "launch",
+      "mainClass": "Range",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "GreaterSmaller",
+      "request": "launch",
+      "mainClass": "GreaterSmaller",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AllOps",
+      "request": "launch",
+      "mainClass": "AllOps",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "LoanSystem",
+      "request": "launch",
+      "mainClass": "LoanSystem",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Sum",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "classeScanner",
+      "request": "launch",
+      "mainClass": "classeScanner",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "priint",
+      "request": "launch",
+      "mainClass": "comandoDeImpressao.priint",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "priintf",
+      "request": "launch",
+      "mainClass": "comandoDeImpressao.priintf",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "priintln",
+      "request": "launch",
+      "mainClass": "comandoDeImpressao.priintln",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "compostaifElse",
+      "request": "launch",
+      "mainClass": "compostaifElse",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "loopDoWhile",
+      "request": "launch",
+      "mainClass": "loopDoWhile",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "loopFor",
+      "request": "launch",
+      "mainClass": "loopFor",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "loopWhile",
+      "request": "launch",
+      "mainClass": "loopWhile",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "multiplaSwitchCase",
+      "request": "launch",
+      "mainClass": "multiplaSwitchCase",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "olaMundo",
+      "request": "launch",
+      "mainClass": "olaMundo",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "simplesIf",
+      "request": "launch",
+      "mainClass": "simplesIf",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "ternario",
+      "request": "launch",
+      "mainClass": "ternario",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "variaveis",
+      "request": "launch",
+      "mainClass": "variaveis",
+      "projectName": "cursoJava_53fcf66e"
+    },
+    {
+      "type": "java",
+      "name": "vector",
+      "request": "launch",
+      "mainClass": "vector",
+      "projectName": "cursoJava_53fcf66e"
+    }
+  ]
+}
