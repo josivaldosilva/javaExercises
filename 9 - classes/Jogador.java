@@ -4,12 +4,14 @@ public class Jogador {
   private String surname;
   private String telNum;
   private int userId;
+  private isOn;
 
   public Jogador(/*String name, String surName, String telNum, int n*/){
     this.name = "";
     this.surname = "";
     this.telNum = "";    
     this.userId = 0;
+    this.isOn = true;
   }
   
   // Métodos para definir dados do usuários
@@ -41,4 +43,6 @@ public class Jogador {
   public int getUserId(){
     return this.userId;
   }
+
+
 }
