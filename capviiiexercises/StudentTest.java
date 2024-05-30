@@ -1,6 +1,7 @@
 import java.util.Vector;
 import java.io.IOException;
 import java.util.Scanner;
+import java.util.Random;
 
 
 public class StudentTest {
@@ -14,10 +15,8 @@ public class StudentTest {
     String name = kbScanner.nextLine();
     System.out.print("Idade: ");
     int age = kbScanner.nextInt();
-    System.out.print("Nº de estudante: ");
-    int student_num = kbScanner.nextInt();
-
-    allStudents.add(new Student(name, age, student_num));
+    
+    allStudents.add(new Student(name, age, (allStudents.size() + 1)));
     
   }
 
@@ -68,7 +67,7 @@ public class StudentTest {
       int opt;
 
       do{
-        System.out.printf("1 - Inserir Aluno\n2 - Consultar Aluno\n3 - Listar Alunos\n4 -Sair\n\n");
+        System.out.printf("\n1 - Inserir Aluno\n2 - Consultar Aluno\n3 - Listar Alunos\n4 -Sair\n\n");
         opt = kbScanner.nextInt();
 
         switch (opt) {
